@@ -1,0 +1,37 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local vector databases and indexes
+faiss_index/
+chroma_db/
+vector_store/
+*.faiss
+*.pkl
+
+# Uploaded PDFs and local documents
+data/documents/*
+!data/documents/.gitkeep
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

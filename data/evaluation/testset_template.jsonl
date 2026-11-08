@@ -1,0 +1,3 @@
+{"id":"Q01","question":"What is the minimum attendance required for the end-semester examination?","expected_answer":"Fill this using the official policy document.","expected_level":"enough","relevant_sources":["official_regulations.pdf"]}
+{"id":"Q02","question":"What is the attendance rule and what is the medical condonation process?","expected_answer":"Fill supported details and identify missing parts.","expected_level":"partial","relevant_sources":["official_regulations.pdf"]}
+{"id":"Q03","question":"Does every student receive a free international flight ticket?","expected_answer":"The uploaded documents do not establish this.","expected_level":"insufficient","relevant_sources":[]}
